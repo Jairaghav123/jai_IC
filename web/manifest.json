@@ -1,6 +1,6 @@
 {
-    "name": "flutter_homescreen",
-    "short_name": "flutter_homescreen",
+    "name": "instrument_cluster",
+    "short_name": "instrument_cluster",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

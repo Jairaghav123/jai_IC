@@ -1,4 +1,4 @@
-package com.example.flutter_homescreen
+package com.example.instrument_cluster
 
 import io.flutter.embedding.android.FlutterActivity
 

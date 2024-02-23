@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_homescreen">
+    package="com.example.instrument_cluster">
    <application
-        android:label="flutter_homescreen"
+        android:label="instrument_cluster"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
